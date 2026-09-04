@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Backtest.Core</RootNamespace>
+    <AssemblyName>Backtest.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
